@@ -3,7 +3,7 @@
   become: yes
   vars:
     login_host: db1.daws2025.online
-    PASSWORD: ExpenseApp1
+    PASSWORD: ExpenseApp@1
   # vars_prompt:
   # - name: PASSWORD
   #   prompt: please enter your password
