@@ -2,7 +2,7 @@
   hosts: db
   become: yes
   vars:
-    login_host: db.daws78s.xyz
+    login_host: db1.daws2025.online
   vars_prompt:
   - name: PASSWORD
     prompt: please enter your password
