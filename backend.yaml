@@ -2,7 +2,7 @@
   hosts: backend
   become: yes
   vars:
-    login_host: db1.daws2025.online
+    login_host: db.daws2025.online
     PASSWORD: ExpenseApp@1
   # vars_prompt:
   # - name: PASSWORD
